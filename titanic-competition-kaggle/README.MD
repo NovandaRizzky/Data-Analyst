@@ -9,7 +9,7 @@ Model yang dibangun langsung dari data mentah pada "Titanic Kaggle Competition" 
 - _Labelling_ Data  
 - Membuat Model _Machine Learning_  
 ## Dataset  
-Dataset dapat diakses pada _website_ kaggle berikut https://www.kaggle.com/competitions/titanic atau dapat diunduh pada folder data yang sudah disediakan.  
+Dataset dapat diakses pada _website_ kaggle berikut https://www.kaggle.com/competitions/titanic dengan mengikuti kompetisinya.  
 ## Hasil  
 _Random Forest_ (tanpa _Hyperparameter Tuning_) memiliki nilai akurasi yang lebih baik dibandingkan model lainnya (SVM, KNN, AdaBoost, XGBoost, LightGBM). Selain itu, pemahaman, modifikasi, dan pembuatan model yang tepat pada data meningkatkan nilai akurasi secara signifikan pada model _machine learning_.  
 ## Kesimpulan  
